@@ -1,0 +1,12 @@
+@import 'normalize.css';
+@import 'variables';
+@import 'mixins';
+*{
+  box-sizing: border-box;
+  font-family:"Roboto Condensed", sans-serif !important;
+  // font-size: 1.2rem; 
+}
+
+.text-direction_none{
+  text-decoration: none;
+}
